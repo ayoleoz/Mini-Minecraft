@@ -1,9 +1,10 @@
 # Mini-minecraft
 
-This project creates an interactive 3D world exploration and alteration program in the style of the popular computer game Minecraft.
+This project creates an ***interactive 3D world exploration and alteration*** program in the style of the popular computer game Minecraft.
 
 Features implemented includes: 
-Game Engine Tick Function and Player Physics, Procedural Terrain, Efficient Terrain Rendering and Chunking, Multithreaded Terrain Generation, Cave Systems, Texturing and Texture Animation, Day and night cycle, Inventory System, Procedural grass color, Water waves, Post-process Camera Overlay, Shadow mapping
+
+**Game Engine Tick Function and Player Physics**, Procedural Terrain, Efficient Terrain Rendering and Chunking, **Multithreaded Terrain Generation**, Cave Systems, Texturing and Texture Animation, **Day and night cycle**, **Inventory System**, Procedural grass color, Water waves, Post-process Camera Overlay, Shadow mapping
 
 ### Implementation details
 
