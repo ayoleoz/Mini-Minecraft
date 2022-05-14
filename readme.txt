@@ -1,3 +1,5 @@
+# Mini-minecraft
+
 Milestone1:
 Tianze ZHENG: Game Engine Tick Function and Player Physics
 Tianyuan DAI: Procedural Terrain
